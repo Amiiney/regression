@@ -27,7 +27,7 @@ We can visualize again the columns with missing values that need preprocessing. 
 ```Python
 msv2(data, width=12, height=8, color='silver', edgecolor='black')
 ```
-![msv2 image](https://i.ibb.co/nRdC8dr/Screen-Shot-2020-05-29-at-13-58-25.png)
+![msv2 image](https://i.ibb.co/RPqSsD7/Screen-Shot-2020-06-01-at-12-01-30.png)
 
 We should figure out how to treat those columns based on the exploratory data analysis, columns elements and the domain knowledge. A couple missing values can be fixed easily by filling the columns with the values in the previous rows 
 ```python
